@@ -1,0 +1,24 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+nav {
+  padding: 10px 2%;
+  justify-content: space-between;
+  position: sticky;
+  top: 0%;
+  left: 0%;
+  z-index: 10;
+}
+
+.flex-div {
+  display: flex;
+  align-items: center;
+}
+
+.nav-left img {
+  width: 9rem;
+  /* margin-right: 25px; */
+}
